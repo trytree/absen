@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113966310038",
+    "firebase_url": "https://absensiustadz.firebaseio.com",
+    "project_id": "absensiustadz",
+    "storage_bucket": "absensiustadz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113966310038:android:703ec38bab3ca536bc18b7",
+        "android_client_info": {
+          "package_name": "id.merapi.absen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113966310038-vs7f6m8c081scehjq91m98nlmvhmrl6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfC2UcRwXRVR7y2aFpLwSFAwkmqfpSla4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113966310038-vs7f6m8c081scehjq91m98nlmvhmrl6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
